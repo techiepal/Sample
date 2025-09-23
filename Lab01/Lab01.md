@@ -14,7 +14,7 @@
 실습 환경을 시작할 때 스크린샷과 같은 메시지가 표시될 수 있습니다. 파일
 다운로드 버튼을 클릭하여 참고 문서 다운로드를 완료하세요.
 
-<img src="github.com/techiepal/Sample/blob/main/Lab01/media/image1.png" />
+<img src="https://raw.githubusercontent.com/techiepal/Sample/11e6b760a6e93b9a5110d39928b72ecf8eefe9d9/Lab01/media/image1.png">
 
 **2. Microsoft 365 구독 설정 완료 및 Microsoft 365 Copilot
 액세스합니다**
