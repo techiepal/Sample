@@ -8,7 +8,7 @@
 
 **참고**: **Student** 로그인을 사용하지 마세요.
 
-<img src=github.com/techiepal/Sample/blob/main/Lab01/media/image1.png>
+<img src="https://github.com/techiepal/Sample/blob/main/Lab01/media/image1.png">
 
 **참고**: 실습 연습에 사용되는 참고 문서는 **C:\LabFiles**에 있습니다.
 실습 환경을 시작할 때 스크린샷과 같은 메시지가 표시될 수 있습니다. 파일
